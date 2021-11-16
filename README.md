@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=geekswg.geekswg">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -30,7 +30,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/geekswg/geekswg/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: geekswg@qq.com">geekswg@qq.com</a>
 </p>
 
 <hr>
