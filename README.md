@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Github HomePage](https://github-readme-stats.vercel.app/api?username=geekswg)](https://geekswg.github.io/)
+[![My Github HomePage](https://github-readme-stats.vercel.app/api?username=geekswg&theme=synthwave)](https://geekswg.github.io/)
 
 
 <!--
