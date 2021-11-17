@@ -8,9 +8,11 @@
 
 <h5 align="center">
   <code>
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img width="22" src="images/QQ.svg"> QQ</a></code>
-  <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img width="22" src="images/mail.svg"> 邮件</a></code>
-  <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img width="22" src="images/cnblogs.svg">CNBlog</a></code>
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg"> QQ</a></code>
+  <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg"> 邮件</a></code>
+  <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">CNBlog</a></code>
+  <code><a href="https://gitee.com/geekswg" title="Geekswg's Gitee"><img height="24" src="images/gitee2.png">Gitee</a></code>
+  <code><a href="https://github.com/geekswg" title="Geekswg's Gitee"><img height="24" src="images/github.svg">GitHub</a></code>
 </h5>
 <br>
 <p align="center">
