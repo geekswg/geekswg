@@ -8,10 +8,9 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img width="22" src="images/QQ.svg"> QQ</a></code>
+  <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img width="22" src="images/mail.svg"> 邮件</a></code>
+  <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img width="22" src="images/cnblogs.svg">CNBlog</a></code>
 </h5>
 <br>
 <p align="center">
