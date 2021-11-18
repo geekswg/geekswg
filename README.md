@@ -17,11 +17,9 @@
 <p align="center">
   Hi, I'm Geekswg
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I'm currently studying for a Bachelor ’ s degree in Hefei Normal University Computer Engineering Department
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Hefei Normal University Computer Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
   <br>
