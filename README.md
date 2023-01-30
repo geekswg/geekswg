@@ -17,7 +17,7 @@
 <p align="center">
   Hi, I'm Geekswg
   <br>
-  🔬 I'm currently studying for a Bachelor ’ s degree in Hefei Normal University Computer Engineering Department
+  🔬 
   <br>
   🎓 I graduated from Hefei Normal University Computer Engineering Department
   <br>
