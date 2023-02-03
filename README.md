@@ -34,7 +34,7 @@
 <!-- 贪吃蛇 -->
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/snake/snake.svg" alt="Snake animation" />
 <!-- 贪吃蛇 -->
-[![My user statistics](images/userstats.svg)](https://github.com/hiifong)
+[![My user statistics](images/userstats.svg)](https://github.com/geekswg)
 </center>
 
 <hr>
