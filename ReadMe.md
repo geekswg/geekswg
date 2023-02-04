@@ -30,16 +30,14 @@
   📫 How to reach me: <a href="mailto: geekswg@qq.com">geekswg@qq.com</a>
 </p>
 
-<center>
+<div align=center>
 <!-- 贪吃蛇 action/snak.yml -->
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/snake/snake.svg" alt="贪吃蛇动画Snake animation" />
-</center>
 
-<!-- 用户数据 action/user-statistician.yml -->
-<div align=center>
+
+<!-- 用户数据 action/user-statistician.yml  注意 下面的代码必须前后 空一行，才能正常显示 -->
 
 [![My user statistics2](images/userstats.svg "Geekswg 用户数据 ")](https://github.com/geekswg)
-  
 </div
 
 <hr/>
