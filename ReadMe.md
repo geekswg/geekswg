@@ -36,11 +36,11 @@
 </center>
 
 <!-- 用户数据 action/user-statistician.yml -->
-<center>
+<div align=center>
 
 [![My user statistics2](images/userstats.svg "Geekswg 用户数据 ")](https://github.com/geekswg)
   
-</center>
+</div
 
 <hr/>
 
