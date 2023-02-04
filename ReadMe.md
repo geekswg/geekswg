@@ -33,8 +33,10 @@
 <center>
 <!-- 贪吃蛇 action/snak.yml -->
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/snake/snake.svg" alt="贪吃蛇动画Snake animation" />
+</center>
+
 <!-- 用户数据 action/user-statistician.yml -->
-  
+<center>
 [![My user statistics2](images/userstats.svg "Geekswg 用户数据 ")](https://github.com/geekswg)
   
 </center>
