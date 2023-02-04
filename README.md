@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-[![My user statistics](images/userstats.svg)](https://github.com/geekswg)
-
 <h5 align="center">
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
@@ -33,10 +31,10 @@
 </p>
 
 <center>
-<!-- 贪吃蛇 -->
+<!-- 贪吃蛇 action/snak.yml -->
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/snake/snake.svg" alt="Snake animation" />
-<!-- 贪吃蛇 -->
-  ![My user statistics](images/userstats.svg)
+<!-- 用户数据 action/user-statistician.yml -->
+[![My user statistics](images/userstats.svg)](https://github.com/geekswg)
 </center>
 
 <hr>
