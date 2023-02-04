@@ -37,11 +37,7 @@
 [![My user statistics](images/userstats.svg)](https://github.com/geekswg)
 </center>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-
-<hr>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
