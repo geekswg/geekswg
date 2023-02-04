@@ -18,9 +18,31 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark-dimmed
-        custom-title: My GitHub Statistics
+#         custom-title: My GitHub Statistics
+        custom-title: Gavin Wells 用户数据
+#         hide-keys: joined, mostStarred, mostForked, followers, following, private
         hide-keys: joined, mostStarred, mostForked, followers, following, private
-        max-languages: 100
+        max-languages: auto
         animated-language-chart: true
+        # 完整参数
+        image-file: images/userstats.svg
+        include-title: true
+#         custom-title: '' # Defaults to title pattern described earlier
+        small-title: false
+        featured-repository: '' # Defaults to nothing featured
+#         max-languages: auto
+        language-repository-exclusions: '' # None excluded
+#         animated-language-chart: false
+        language-animation-speed: 10
+        top-icon: default
+#         colors: light
+        border-radius: 6
+        show-border: true
+        image-width: 0
+#         hide-keys: '' # None hidden
+        category-order: general, repositories, contributions, languages
+        locale: en
+        fail-on-error: true
+        commit-and-push: true
       env:
         GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
