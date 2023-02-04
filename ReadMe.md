@@ -34,7 +34,9 @@
 <!-- 贪吃蛇 action/snak.yml -->
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/snake/snake.svg" alt="贪吃蛇动画Snake animation" />
 <!-- 用户数据 action/user-statistician.yml -->
+
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/images/userstats.svg" alt="Github 用户数据统计" title="Geekswg 用户数据"/>
+
 <!-- [![My user statistics2](images/userstats.svg "Geekswg 用户数据 ")](https://github.com/geekswg) -->
 </center>
 
