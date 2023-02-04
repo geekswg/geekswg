@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/geekswg/geekswg/snake/snake.svg" alt="Snake animation" />
 <!-- 用户数据 action/user-statistician.yml -->
 
-[![My user statistics](images/userstats.svg "Geekswg")](https://github.com/geekswg)
+[![My user statistics2](images/userstats.svg "Geekswg 用户数据 ")](https://github.com/geekswg)
 
 </center>
 
