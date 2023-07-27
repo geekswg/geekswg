@@ -42,11 +42,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://geekswg.js.cool/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://geekswg.js.cool/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://geekswg.js.cool/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://geekswg.js.cool/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://geekswg.js.cool/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://geekswg.github.io/posts/2023/loading-gif/' target='_blank'>Loading Gif</a> - Wed, 07 Jun 2023 19:54:12 +0800
+* <a href='https://geekswg.github.io/all-sites/idnex/' target='_blank'>毕少侠所有站点</a> - Fri, 02 Jun 2023 20:20:39 +0800
+* <a href='https://geekswg.github.io/posts/2023/timeline2/' target='_blank'>timeline2</a> - Wed, 31 May 2023 18:14:48 +0800
+* <a href='https://geekswg.github.io/posts/2023/timeline/' target='_blank'>Timeline</a> - 
+* <a href='https://geekswg.github.io/posts/2023/wps-ai-use/' target='_blank'>WPS-AI内测使用体验</a> - Mon, 29 May 2023 17:38:41 +0800
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -58,11 +58,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35525475/' target='_blank'>在看公诉</a> 🌟🌟🌟☆☆ 还行- 2023-06-09
+* <a href='http://movie.douban.com/subject/35597507/' target='_blank'>在看白色城堡</a> 🌟🌟🌟🌟☆ 推荐- 2023-06-09
+* <a href='http://movie.douban.com/subject/35555996/' target='_blank'>在看平凡之路</a> 🌟🌟🌟🌟🌟 力荐- 2023-05-08
+* <a href='http://movie.douban.com/subject/35766491/' target='_blank'>看过满江红</a> 🌟🌟🌟🌟🌟 力荐- 2023-05-01
+* <a href='http://movie.douban.com/subject/35622198/' target='_blank'>想看法言人</a> - 2023-04-25
 <!-- END_SECTION:douban -->
 
 </td></tr>
