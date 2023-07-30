@@ -1,12 +1,3 @@
-<style>
-.markdown-body.table {
-    display: inline-table !important;
-    width: 100%;
-    width: 100%;
-    max-width: 100%;
-    overflow: auto;
-}
-</style>
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
