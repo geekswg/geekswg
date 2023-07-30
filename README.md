@@ -41,8 +41,8 @@
 
 #  🙋 Hello
 
-
-<table width="100%">
+<table style="display: inline-table;width: 100%;max-width: 100%;
+overflow: auto;">
 
 <tr><td>
 
