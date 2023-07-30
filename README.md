@@ -1,6 +1,6 @@
 <style>
-.markdown-body table {
-    display: inline-table;
+.markdown-body.table {
+    display: inline-table !important;
     width: 100%;
     width: 100%;
     max-width: 100%;
