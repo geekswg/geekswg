@@ -32,8 +32,7 @@
 
 #  🙋 Hello
 
-<table style="display: inline-table;width: 100%;max-width: 100%;
-overflow: auto;">
+<table style="display: inline-table;width: 100%;max-width: 100%;overflow: auto;">
 
 <tr><td>
 
