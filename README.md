@@ -1,3 +1,12 @@
+<style>
+.markdown-body table {
+    display: inline-table;
+    width: 100%;
+    width: 100%;
+    max-width: 100%;
+    overflow: auto;
+}
+</style>
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -32,13 +41,8 @@
 
 #  🙋 Hello
 
-<div  style="width:100%">
-<table >
-<thead>
-<tr><td>
-My Github Profile
-</td></tr>
-</thead>
+
+<table width="100%">
 
 <tr><td>
 
@@ -142,7 +146,6 @@ Windows                  5 hrs 8 mins        ███████████�
   
 </td></tr>
 </table>
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/hr.gif" />
