@@ -33,7 +33,12 @@
 #  🙋 Hello
 
 <div  style="width:100%">
-<table width="100%">
+<table >
+<thead>
+<tr><td>
+My Github Profile
+</td></tr>
+</thead>
 
 <tr><td>
 
@@ -112,6 +117,7 @@ Sunday                   371 commits         ████░░░░░░░�
 
 
 📊 **This Week I Spent My Time On** 
+
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
