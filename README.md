@@ -116,18 +116,17 @@ Sunday                   388 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     4 mins              ████████████████████████░   96.73 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/09/2023 00:44:13 UTC
+ Last Updated on 21/09/2023 00:43:57 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
