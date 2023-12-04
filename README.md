@@ -89,48 +89,8 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-🌆 Daytime                714 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌃 Evening                992 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌙 Night                  660 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Tuesday                  557 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Wednesday                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Friday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Saturday                 353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Sunday                   388 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-HTML                     20 mins             █████████████████░░░░░░░░   69.97 % 
-TOML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-
-🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 03/12/2023 00:51:16 UTC
+ Last Updated on 04/12/2023 00:47:55 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
