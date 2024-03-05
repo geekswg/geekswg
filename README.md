@@ -32,13 +32,10 @@
 
 #  🙋 Hello
 
-<table style="display:table !important; width:100% !important;">
-
-<tr><td>
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
-  
+<div>
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
@@ -48,10 +45,9 @@
 * <a href='https://geekswg.github.io/all-sites/idnex/' target='_blank'>毕少侠所有站点</a> - Fri, 02 Jun 2023 20:20:39 +0800
 * <a href='https://geekswg.github.io/posts/2023/timeline2/' target='_blank'>timeline2</a> - Wed, 31 May 2023 18:14:48 +0800
 <!-- END_SECTION:blog -->
+</div>
 
-</td></tr>
-
-<tr><td>
+---
 
 ### 🤾‍♂️ Funny Soul
 
@@ -65,9 +61,7 @@
 * <a href='http://movie.douban.com/subject/35622198/' target='_blank'>想看法言人</a> - 2023-04-25
 <!-- END_SECTION:douban -->
 
-</td></tr>
-
-<tr><td>
+---
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -84,9 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geekswg&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-</td></tr>
-
-<tr><td>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -133,8 +124,7 @@ Windows                  6 hrs 3 mins        ███████████�
  Last Updated on 05/03/2024 00:44:25 UTC
 <!--END_SECTION:waka-->
   
-</td></tr>
-</table>
+---
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/hr.gif" />
