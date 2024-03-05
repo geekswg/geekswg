@@ -1,3 +1,14 @@
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -32,7 +43,7 @@
 
 #  🙋 Hello
 
-<table style="display: inline-table;width: 100%;max-width: 100%;overflow: auto;">
+<table>
 
 <tr><td>
 
