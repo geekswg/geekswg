@@ -42,11 +42,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://geekswg.github.io/posts/2023/loading-gif/' target='_blank'>Loading Gif</a> - Wed, 07 Jun 2023 19:54:12 +0800
-* <a href='https://geekswg.github.io/all-sites/idnex/' target='_blank'>毕少侠所有站点</a> - Fri, 02 Jun 2023 20:20:39 +0800
-* <a href='https://geekswg.github.io/posts/2023/timeline2/' target='_blank'>timeline2</a> - Wed, 31 May 2023 18:14:48 +0800
-* <a href='https://geekswg.github.io/posts/2023/timeline/' target='_blank'>Timeline</a> - 
-* <a href='https://geekswg.github.io/posts/2023/wps-ai-use/' target='_blank'>WPS-AI内测使用体验</a> - Mon, 29 May 2023 17:38:41 +0800
+* <a href='https://geekswg.js.cool/posts/2024/hugo-pjax-support/' target='_blank'>Hugo添加Pjax功能支持</a> - Wed, 28 Feb 2024 18:38:31 +0800
+* <a href='https://geekswg.js.cool/posts/2024/layui-shortcodes-demo/' target='_blank'>Layui Shortcodes Demo</a> - Wed, 03 Jan 2024 09:35:22 +0800
+* <a href='https://geekswg.js.cool/posts/2023/loading-gif/' target='_blank'>Loading Gif</a> - Wed, 07 Jun 2023 19:54:12 +0800
+* <a href='https://geekswg.js.cool/posts/2023/idnex/' target='_blank'>毕少侠所有站点</a> - Fri, 02 Jun 2023 20:20:39 +0800
+* <a href='https://geekswg.js.cool/posts/2023/timeline2/' target='_blank'>timeline2</a> - Wed, 31 May 2023 18:14:48 +0800
 <!-- END_SECTION:blog -->
 
 </td></tr>
