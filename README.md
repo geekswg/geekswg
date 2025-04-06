@@ -43,11 +43,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://geekswg.js.cool/posts/2025/share-lxmusic/' target='_blank'>LX-Music洛雪音乐助手</a> - Sun, 06 Apr 2025 16:45:38 +0800
 * <a href='https://geekswg.js.cool/mydocs/md-basic/' target='_blank'>Markdown基本语法</a> - Sat, 07 Dec 2024 08:52:46 +0800
 * <a href='https://geekswg.js.cool/posts/2024/ai-summary/' target='_blank'>给你的网站添加AI摘要功能</a> - Sat, 07 Dec 2024 08:52:46 +0800
 * <a href='https://geekswg.js.cool/posts/2024/vscode-keybing/' target='_blank'>VSCode常用快捷键</a> - Wed, 04 Dec 2024 22:02:38 +0800
 * <a href='https://geekswg.js.cool/posts/2024/fnnas/' target='_blank'>飞牛NAS的安装与使用体验</a> - Mon, 11 Nov 2024 14:54:12 +0800
-* <a href='https://geekswg.js.cool/posts/2024/hugo-pjax-support/' target='_blank'>Hugo添加Pjax功能支持</a> - Wed, 28 Feb 2024 18:38:31 +0800
 <!-- END_SECTION:blog -->
 
 </td></tr>
