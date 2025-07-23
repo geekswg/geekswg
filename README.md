@@ -59,11 +59,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/35525475/' target='_blank'>在看公诉</a> 🌟🌟🌟☆☆ 还行- 2023-06-09
-* <a href='https://movie.douban.com/subject/35597507/' target='_blank'>在看白色城堡</a> 🌟🌟🌟🌟☆ 推荐- 2023-06-09
-* <a href='https://movie.douban.com/subject/35555996/' target='_blank'>在看平凡之路</a> 🌟🌟🌟🌟🌟 力荐- 2023-05-08
-* <a href='https://movie.douban.com/subject/35766491/' target='_blank'>看过满江红</a> 🌟🌟🌟🌟🌟 力荐- 2023-05-01
-* <a href='https://movie.douban.com/subject/35622198/' target='_blank'>想看法言人</a> - 2023-04-25
+
 <!-- END_SECTION:douban -->
 
 </td></tr>
