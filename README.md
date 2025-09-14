@@ -117,19 +117,17 @@ Sunday                   403 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SCSS                     1 hr 1 min          ████████████████████████░   96.47 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2025 01:09:17 UTC
+ Last Updated on 14/09/2025 01:18:07 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
