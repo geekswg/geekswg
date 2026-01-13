@@ -47,7 +47,7 @@
 * <a href='https://geekswg.js.cool/posts/2026/cf-tunnel-speedup/' target='_blank'>Cloudflare隧道加速</a> - Fri, 09 Jan 2026 00:26:47 +0800
 * <a href='https://geekswg.js.cool/posts/2025/fn-docker/' target='_blank'>飞牛NAS之Docker</a> - Fri, 26 Dec 2025 20:01:24 +0800
 * <a href='https://geekswg.js.cool/posts/2025/share-lxmusic/' target='_blank'>LX-Music洛雪音乐助手</a> - Sun, 06 Apr 2025 16:45:38 +0800
-* <a href='https://geekswg.js.cool/mydocs/md-basic/' target='_blank'>Markdown基本语法</a> - Sat, 07 Dec 2024 08:52:46 +0800
+* <a href='https://geekswg.js.cool/posts/2024/md-basic/' target='_blank'>Markdown基本语法</a> - Sat, 07 Dec 2024 08:52:46 +0800
 <!-- END_SECTION:blog -->
 
 </td></tr>
