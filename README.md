@@ -43,11 +43,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://geekswg.js.cool/posts/2026/hugo-add-author-statement/' target='_blank'>Hugo博客添加作者声明</a> - 
 * <a href='https://geekswg.js.cool/posts/2026/codeblock-demo/' target='_blank'>代码块功能增强</a> - Sun, 25 Jan 2026 16:18:21 +0800
 * <a href='https://geekswg.js.cool/posts/2026/blog-stats/' target='_blank'>hugo博客添加数据统计页面</a> - Sat, 24 Jan 2026 15:22:51 +0800
 * <a href='https://geekswg.js.cool/posts/2026/js-magic/' target='_blank'>js的魔法特效</a> - Mon, 19 Jan 2026 18:51:00 +0800
 * <a href='https://geekswg.js.cool/posts/2026/cf-new/' target='_blank'>Cloudflare部署CFnew终端</a> - Sun, 11 Jan 2026 16:40:02 +0800
-* <a href='https://geekswg.js.cool/posts/2026/cf-tunnel-speedup/' target='_blank'>Cloudflare隧道加速</a> - Fri, 09 Jan 2026 00:26:47 +0800
 <!-- END_SECTION:blog -->
 
 </td></tr>
