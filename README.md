@@ -95,21 +95,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-🌆 Daytime                765 commits         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-🌃 Evening                1127 commits        ██████████░░░░░░░░░░░░░░░   41.48 % 
-🌙 Night                  566 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌞 Morning                351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+🌆 Daytime                1022 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+🌃 Evening                1553 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌙 Night                  807 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Wednesday                417 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Friday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Saturday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Sunday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Monday                   662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Tuesday                  594 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Wednesday                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Saturday                 507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Sunday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 ```
 
 
@@ -119,25 +119,25 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+YAML                     1 hr 43 mins        ███████████░░░░░░░░░░░░░░   43.61 % 
+Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (58.89%)
+⏱ AI Coding Time: 45 mins (19.38%)
 
-✍️ 65 lines written by AI, 2 lines written by hand (97.01% AI-written)
+✍️ 65 lines written by AI, 265 lines written by hand (19.7% AI-written)
 
 🔤 34,527 Input Tokens, 663 Output Tokens
 
@@ -150,14 +150,14 @@ Github-Copilot           26 lines            ██████████░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.01% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 19.7% of written lines came from AI
 📝 Concise Prompter — average 276 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 31.58% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 03:10:30 UTC
+ Last Updated on 24/09/2026 03:02:14 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
