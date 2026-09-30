@@ -119,45 +119,27 @@ Sunday                   512 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
-HTML                     1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+YAML                     1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.66 % 
+HTML                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.77 % 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (15.6%)
-
-✍️ 65 lines written by AI, 278 lines written by hand (18.95% AI-written)
-
-🔤 34,527 Input Tokens, 663 Output Tokens
-
-💵 $0.11 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 7 AI Prompts
-
-Nemotron                 39 lines            ███████████████░░░░░░░░░░   60.00 % 
-Github-Copilot           26 lines            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.95% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 85.16% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/09/2026 04:06:06 UTC
+ Last Updated on 30/09/2026 03:52:23 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
